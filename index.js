@@ -72,9 +72,9 @@ do {
     } else if (opcao === "2") {
         transporte.listarAlunos()
     } else if (opcao === "3") {
-        console.log("\n")
+        console.log("\nSistema encerado")
     } else {
-        console.log("\n")
+        console.log("\nRESPOSTA INVALIDA")
     }
 
 } while (opcao !== "3")
